@@ -1,3 +1,5 @@
+# POS-TAGGER-NLP
+
  Part-of-Speech Tagger
 
 - As i was getting some error, i have not saved the model. instead will have to train each time.
@@ -24,7 +26,3 @@ Graphs.
 - The dev set had a SYM tag other than the given 12 tags. That is also taken into consideration while building the model.
 - Glove embedding has been used and it is stored locally in my system. It is not submitted in the zip file. However i am giving here the link of embedding used : 'https://drive.google.com/uc?id=1R2_AE4lfgn2DsW9sGm2yuImw-6MZNqaG'
 - An extra ['PAD'] will be seen in RNN confusion matrix. it can be ignored
-
-
-  
-
